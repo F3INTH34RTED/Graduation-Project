@@ -1,0 +1,83 @@
+NASA announces the award of 18 grants for exciting new Space Biology research that will advance NASA’s understanding of how living systems respond, acclimate, and adapt to the space environment in support of human space exploration.
+
+The awarded proposals represent the diversity of basic science research conducted by the Space Biology Program.  They include microbiology investigations to understand microbial behavior and genetics, plant studies to advance knowledge in areas of gravitropic responses and crop plant biology, and research in physiological response by animals to altered gravity.  Many of these investigations will employ cutting edge systems biology analytical techniques which will provide data for identifying underlying mechanisms and networks that respond to or govern biological processes in space.  The bioinformatics data generated from these studies will be submitted to GeneLab for open science access. These space biology investigations will be conducted by 18 investigators from 16 institutions in 11 states. Seven of these awards are to investigators new to the Space Biology Program. When fully implemented, about $8.3 million will be awarded in fiscal years 2021-2024.
+
+ 
+
+Awards for Microbiology Studies:
+Wayne Nicholson, Ph.D. University Of Florida, Gainesville
+Alteration of Bacillus subtilis DNA Architecture in Space: Global Effects on DNA Supercoiling, Methylation, and the Transcriptome.
+
+Kelly Rice, Ph.D. University Of Florida, Gainesville
+Assessing the impact of Agr Quorum Sensing on Staphylococcus aureus Physiology in the Space Flight Environment
+
+Sergio Santa Maria, Ph.D. NASA Ames Research Center
+Acquisition of Beneficial Mutations through Adaptive Evolution Under Simulated Microgravity
+
+Andrew Settles, Ph.D. University Of Florida, Gainesville
+Understanding Genome-Wide Mutation Load in Spaceflight Culture of Cyanobacteria
+
+Camilla Urbaniak, Ph.D. ZIN Technologies, Inc,
+Microgravity Analogs as Proxies for Spaceflight to Validate Biofilm Formation and the Exchange of Genes Between Organisms
+
+Zheng Wang, Ph.D. Naval Research Lab
+Harnessing Extremophilic Black Yeasts to Understand the Adaptive Strategies of Eukaryotes to Mars-Like Conditions
+
+ 
+
+Awards for Plant Biology Studies:
+Simon Gilroy, Ph.D. University Of Wisconsin, Madison
+Spaceflight Effects on Plant-Microbe Interactions
+
+Robert Jinkerson, Ph.D. University Of California, Riverside
+Evaluation of Small Plants for Agriculture in Confined Environments (SPACE) Tomatoes for Space Flight Applications
+
+Christina Khodadad, Ph.D. AECOM Management Services, Inc.
+Microbe-Plant interactions with International Space Station microbial communities in Veggie flight crops
+
+Scot Wolverton, Ph.D. Ohio Wesleyan University
+RNA-Seq Guided Mutant Analysis to Discover New Components of Gravity Signaling in Plants
+
+ 
+
+Awards for Animal Biology Studies:
+Xiaohong Lu, Ph.D. Louisiana State University System
+Develop a Novel Single-Cell Biodosimetry for Brain Genomic Instability and Neurodegeneration to Predict Clinical Health Outcomes in Human Spaceflight Crews
+
+Meghan McGee-Lawrence, Ph.D. Augusta University Research Institute, Inc,
+Osteocyte Plasma Membrane Disruptions in Skeletal Adaptation to Loading and Unloading
+
+Anand Ramasubramanian, Ph.D. San Jose State University Research Foundation
+Thrombosis in microgravity
+
+Donato Romagnolo, Ph.D. University Of Arizona
+Space Environment and Epigenetics of Endocrine Regulation of DNA Repair and Cell Cycle in Mammary Epithelial Cells
+
+Jeffrey Willey, Ph.D. Wake Forest University
+A Technology To Measure Gait, Egress, and Locomotor Performance in Perturbed Environmental Conditions After Simulated Spaceflight
+
+Abba Zubair, Ph.D. Mayo Clinic, Jacksonville
+Role of Mesenchymal Stem Cells in Microgravity Induced Bone Loss
+
+ 
+
+Awards for Postdoctoral Fellowships:
+Eliah Overbey (PI: Christopher Mason, Ph.D.) Weill Medical College of Cornell University
+High-resolution, murine spatial transcriptome mapping of the impact of spaceflight
+
+Megan Rosa-Caldwell (PI: Seward Rutkove, Ph.D.) Beth Israel Deaconess Medical Center, Inc,
+Influence of sex hormones on nervous system and musculoskeletal health in micro- and Martian fractional gravity in rat analogues
+
+ 
+
+The awards resulted from submissions to NASA Research Announcement NNH18ZTT001N-FG2 “Appendix D: Solicitation of Proposals for Flight and Ground Space Biology Research,” which sought research proposals for both ground-based and flight research investigations, new investigations, and post-doctoral fellowships.  Investigators were invited to submit proposals that addressed one of the following three research emphases:
+
+1)    Microbiology studies that will produce new understanding of how microbiological organisms and/or communities acclimate to, evolve, and/or behave in the spaceflight, lunar, or Martian environments. Topical areas include, but are not limited to, the Microbiomes of the Built Environment (MoBE); biofilm formation; and mechanisms responsive to and governing phenotypic changes in microbial biology.
+
+2)    Plant Biology studies making use of ISS capabilities of Veggie, the Advanced Plant Habitat, the Spectrum Imager, and/or the Biological Research in Canisters (BRIC) to study environmental effects on plant growth and interactions with microbes and fungi. Proposed studies should answer fundamental questions about how plants adapt to spaceflight or respond to changes in gravity within ground analogs, and provide new understanding of how to grow plants in space that will enable human space exploration.
+
+3)    Animal Biology (vertebrate and invertebrate) that will lead to the characterization of organ systems, physiological adaptations, and the underlying cellular and molecular mechanisms of phenotypic changes within tissues and between physiological systems. These investigations must produce new understanding of how complex organisms respond to and/or acclimate/adapt to the space environment, using ground analogs and/or flight platforms. The derived data may be applicable to advancing human space exploration.
+
+This announcement provided funding opportunities to both individual principal investigators as well as postdoctoral Fellows. The Space Biology Program is managed by the Biological and Physical Science Division in NASA's Science Mission Directorate at the Agency's Headquarters in Washington.
+
+Note: This post was edited on 9/29/2020 to reflect an update to the selected postdoctoral fellows following an award declination.

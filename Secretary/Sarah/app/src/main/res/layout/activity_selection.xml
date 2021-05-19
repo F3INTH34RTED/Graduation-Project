@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_list"
+    tools:context=".forgetPassword">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:id="@+id/back0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="10dp"
+            android:src="@drawable/back">
+
+        </ImageView>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/select"
+            android:padding="1dp"
+            >
+        </ImageView>
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:background="#BFBCBC"
+            android:padding="5dp"
+            >
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:id="@+id/micon"
+                android:layout_centerVertical="true"
+                android:src="@drawable/phone"
+                android:layout_marginStart="10dp"
+                >
+
+            </ImageView>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/mtitle"
+                android:text="via SMS"
+                android:textSize="20sp"
+                android:layout_marginStart="40dp"
+                android:fontFamily="@font/amita_bold"
+                android:layout_toRightOf="@+id/micon"
+                android:layout_marginTop="40dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/mdesc"
+                android:text="+971559946561"
+                android:textSize="20sp"
+                android:layout_marginStart="40dp"
+                android:fontFamily="@font/amita_bold"
+                android:layout_toRightOf="@+id/micon"
+                android:layout_below="@+id/mtitle">
+
+            </TextView>
+            <Button
+                android:id="@+id/sms"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/transparent">
+
+            </Button>
+
+            
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:background="#BFBCBC"
+            android:padding="5dp"
+            android:layout_marginBottom="20dp"
+            >
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:id="@+id/eicon"
+                android:layout_centerVertical="true"
+                android:src="@drawable/email"
+                android:layout_marginStart="10dp"
+                >
+
+            </ImageView>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/etitle"
+                android:text="via email"
+                android:textSize="20sp"
+                android:layout_marginStart="40dp"
+                android:fontFamily="@font/amita_bold"
+                android:layout_toRightOf="@+id/eicon"
+                android:layout_marginTop="40dp">
+
+            </TextView>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/edesc"
+                android:text="arshatreesa@gmail.com"
+                android:textSize="20sp"
+                android:layout_marginStart="40dp"
+                android:fontFamily="@font/amita_bold"
+                android:layout_toRightOf="@+id/eicon"
+                android:layout_below="@+id/etitle">
+
+            </TextView>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/email"
+                android:background="@android:color/transparent">
+
+            </Button>
+
+
+
+        </RelativeLayout>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

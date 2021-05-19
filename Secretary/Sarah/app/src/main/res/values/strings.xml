@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Sarah</string>
+    <string name="welcome_back_we_missed_you">Welcome Back! We missed you</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="username">Username</string>
+    <string name="menu_home">home</string>
+    <string name="menu_lexi">lexi</string>
+    <string name="menu_settings">settings</string>
+    <string name="password">Password</string>
+    <string name="logoimage">LogoImage</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">LogIn</string>
+    <string name="new_here_come_sign_up">New here?!, come sign up!</string>
+    <string name="first_name">First Name</string>
+    <string name="sign_up_to_organize_your_work_anywhere_anytime">Sign up to organize your work anywhere, anytime</string>
+    <string name="hey_there_come_join_us">Hey there, come join us!!</string>
+    <string name="email_id">Email-ID</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+
+    <string name="mobile_number">Mobile Number</string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_login">Already have an account? LogIn</string>
+    <string name="todo">TODO</string>
+    <string name="user_name">user_name</string>
+    <string name="pass_word">Password</string>
+    <string name="usernamee">Username</string>
+    <string name="lexi_for_you">Lexi For You</string>
+    <string name="anywhere_anytime">anywhere, anytime!</string>
+    <string name="logoimagee">logoimage</string>
+    <string name="back">back</string>
+    <string name="calendar">calendar</string>
+    <string name="filesystem">filesystem</string>
+    <string name="contact">TODO</string>
+    <string name="food">TODO</string>
+    <string name="what_lexi_can_do_for_you">what lexi can do for you</string>
+    <string name="mail">TODO</string>
+    <string name="uber">TODO</string>
+    <string name="lexi">TODO</string>
+    <string name="search">TODO</string>
+    <string name="notemaker">TODO</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="generate_opt">GENERATE OPT</string>
+    <string name="enter_otp_code">enter OTP code</string>
+    <string name="enter_phone_number">enter phone number</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+</resources>

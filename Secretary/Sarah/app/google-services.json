@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "118347623643",
+    "firebase_url": "https://virtual-secretary-fec6f.firebaseio.com",
+    "project_id": "virtual-secretary-fec6f",
+    "storage_bucket": "virtual-secretary-fec6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118347623643:android:31812203f4d8696230b0fe",
+        "android_client_info": {
+          "package_name": "com.example.sarah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118347623643-mjk597fvnbak6nigonk6tk2htvi007a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sarah",
+            "certificate_hash": "539b44c1e6f3b754cadbac0a5f6ed39fd44d0f7f"
+          }
+        },
+        {
+          "client_id": "118347623643-46e0rhm4len112dkf4dj4ithksin2hgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5pgWk6O0nZFZSJj9UsBB77-SMvdFFwGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118347623643-46e0rhm4len112dkf4dj4ithksin2hgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

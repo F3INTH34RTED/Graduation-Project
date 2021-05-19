@@ -1,0 +1,116 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- assistance
+- searchWhat
+- content
+- file
+- folder
+- record
+- summarize
+- taxi
+- months
+- reminder
+- datetime
+- weather
+- google
+- email
+- contact
+- name
+- joke
+- affirm
+- deny
+- goodbye
+entities:
+- MONTH
+- TAXI
+- LOCATION
+- FOLDERNAME
+- SEARCHCONTENT
+- FILE
+slots:
+  DATE:
+    type: unfeaturized
+    auto_fill: false
+  FILE:
+    type: text
+    auto_fill: false
+  FOLDERNAME:
+    type: unfeaturized
+    auto_fill: false
+  LOCATION:
+    type: text
+    auto_fill: false
+  TIME:
+    type: unfeaturized
+    auto_fill: false
+responses:
+  utter_greet:
+  - text: Hey! How can I help you?
+  utter_features:
+  - text: "I can help you with the following: \n \n 1. Search for content in files.\
+      \ \n \n 2. Search for files and folders \n \n 3. Voice Recording conversations,\
+      \ meetings etc. \n \n 4. Summarize an audio file or a text file \n \n 5. Book\
+      \ a taxi \n \n 6. Create and organize reminders \n \n 7. Tell time and day \n\
+      \ \n 8. Browse Google \n \n "
+  utter_assistance:
+  - text: Is there anything else you need?
+  utter_askAssistance:
+  - text: How can I help you?
+  utter_ask_file:
+  - text: What is the name of the file?
+  utter_searchWhat:
+  - text: Do you want me to search google, files, or folders?
+  utter_files:
+  - text: Searching for file
+  utter_recording:
+  - text: /r
+  utter_summarize:
+  - text: /n
+  utter_taxi:
+  - text: /t
+  utter_askDate:
+  - text: Can you please tell me the date?
+  utter_reminder:
+  - text: /d
+  utter_datetime:
+  - text: The date is {DATE} and the time is {TIME}
+  utter_name:
+    - text: "The name's Bot, Bot Sarah!"
+  utter_jokes:
+    - text: "My jokes are in alpha. They will soon get beta."
+    - text: "Don't worry password, I am insecure too!"
+    - text: "I accidentally messed up my life, how do I start a new account?"
+  utter_askGoogleQuery:
+  - text: What do you want me to search for?
+  utter_contacts:
+    - text: /p
+  utter_email:
+    - text: /e
+  utter_goodbye:
+  - text: Bye, have a great day!
+actions:
+- utter_greet
+- utter_features
+- utter_assistance
+- utter_askAssistance
+- utter_searchWhat
+- action_content
+- action_file
+- action_folder
+- utter_recording
+- action_summarize
+- utter_taxi
+- utter_askDate
+- utter_reminder
+- action_date_time
+- action_weather
+- utter_askGoogleQuery
+- action_google
+- utter_contacts
+- utter_email
+- utter_name
+- utter_jokes
+- utter_goodbye

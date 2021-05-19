@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Llayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/darker_gray"
+    tools:context=".AudioListFragment"
+    android:orientation="vertical">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/audio_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="621dp"
+        android:layout_weight="1">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <include layout="@layout/player_sheet"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="450dp">
+
+
+    </include>
+
+    <!--<com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/nav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="@drawable/navbarbg"
+        app:itemTextColor="@android:color/transparent"
+        app:itemIconTint="@android:color/black"
+        android:layout_gravity="bottom"
+        android:fitsSystemWindows="true"
+        app:itemIconSize="30dp"
+        app:labelVisibilityMode="labeled"
+        app:layout_behavior="@string/hide_bottom_view_on_scroll_behavior"
+        app:menu="@menu/bottom_menu_nav">
+
+
+
+    </com.google.android.material.bottomnavigation.BottomNavigationView>-->
+
+</LinearLayout>
